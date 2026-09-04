@@ -72,7 +72,7 @@ NumPy
 
 Joblib
 
-🚀 API Endpoint
+ API Endpoint
 
 POST /predict
 
